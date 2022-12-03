@@ -1,6 +1,5 @@
-package application;
+package boardgame;
 
-import boardgame.Position;
 
 public class Piece {
 	
